@@ -23,10 +23,3 @@ Hi There👋, Myself Mahi Mittal <br>
 ![](https://github-contributor-stats.vercel.app/api?username=mahi674&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahi674&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
