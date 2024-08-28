@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi There👋, Myself Mahi Mittal <br>
-🔭 I’m currently working on Web Developement<br>🌱 I’m currently learning MERN Stack<br>💬 Explore new skills<br>
+🔭 I’m currently working on Web Developement<br>🌱 I’m currently learning MERN Stack<br>💬 Exploring new skills<br>
 
 
 ## 🌐 Socials:
